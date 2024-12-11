@@ -13,21 +13,6 @@ By addressing the lack of access to healthcare services, particularly for the lo
 To try this app on your own please go to the respective repository, you could click the repo and it will show you the readme.md there
 
 ## Meet The Team
-
-### Cloud Computing
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/7888a446-214a-42c6-82c7-6fb1288343bc" alt="Tb. Muhammad Farhan Adnan" width="100" height="100" style="border-radius: 50%;">
-      <p>Tb. Muhammad Farhan Adnan</p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/506b629c-20a3-4db9-9a05-4b4bb6ef423e" alt="Ryan Rafael Nainggolan" width="100" height="100" style="border-radius: 50%;">
-      <p>Ryan Rafael Nainggolan</p>
-    </td>
-  </tr>
-</table>
-
 ### Machine Learning
 <table>
   <tr>
@@ -45,6 +30,21 @@ To try this app on your own please go to the respective repository, you could cl
     </td>
   </tr>
 </table>
+
+### Cloud Computing
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7888a446-214a-42c6-82c7-6fb1288343bc" alt="Tb. Muhammad Farhan Adnan" width="100" height="100" style="border-radius: 50%;">
+      <p>Tb. Muhammad Farhan Adnan</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/506b629c-20a3-4db9-9a05-4b4bb6ef423e" alt="Ryan Rafael Nainggolan" width="100" height="100" style="border-radius: 50%;">
+      <p>Ryan Rafael Nainggolan</p>
+    </td>
+  </tr>
+</table>
+
 
 ### Mobile Development
 <table>
