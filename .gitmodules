@@ -1,0 +1,3 @@
+[submodule "user-matane-api"]
+	path = user-matane-api
+	url = https://github.com/ToebagusFarhan/user-matane-api.git
