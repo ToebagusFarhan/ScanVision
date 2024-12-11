@@ -22,36 +22,35 @@ To try this app on your own please go to the respective repository, you could cl
       <p>Tb. Muhammad Farhan Adnan</p>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/f481a4ff-5f8f-4ef3-99d1-b6df3789c185" alt="Ryan Rafael Nainggolan" width="100" height="100" style="border-radius: 50%;">
+      <img src="https://github.com/user-attachments/assets/506b629c-20a3-4db9-9a05-4b4bb6ef423e" alt="Ryan Rafael Nainggolan" width="100" height="100" style="border-radius: 50%;">
       <p>Ryan Rafael Nainggolan</p>
     </td>
   </tr>
 </table>
 
 ### Machine Learning
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <div style="text-align: center;">
-    <img src="img_link_here" alt="Name Here" width="100" height="100" style="border-radius: 50%; object-fit: cover;">
-    <p>Name Here</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="img_link_here" alt="Name Here" width="100" height="100" style="border-radius: 50%; object-fit: cover;">
-    <p>Name Here</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="img_link_here" alt="Name Here" width="100" height="100" style="border-radius: 50%; object-fit: cover;">
-    <p>Name Here</p>
-  </div>
-</div>
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3ea9290e-eb46-4d7a-8e54-9bb291ada4be" alt="Alvin Mubarok" width="100" height="100" style="border-radius: 50%;">
+      <p>Alvin Mubarok</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8921ed82-1fd6-4555-b08b-efb0adcd9a51" alt="Muhamad Bagaskara" width="100" height="100" style="border-radius: 50%;">
+      <p>Muhamad Bagaskara</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8921ed82-1fd6-4555-b08b-efb0adcd9a51" alt="Kemal Mohamad Husni Tahir" width="100" height="100" style="border-radius: 50%;">
+      <p>Kemal Mohamad Husni Tahir</p>
+    </td>
+  </tr>
+</table>
 ### Mobile Development
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <div style="text-align: center;">
-    <img src="img_link_here" alt="Name Here" width="100" height="100" style="border-radius: 50%; object-fit: cover;">
-    <p>Name Here</p>
-  </div>
-    
-</div>
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/70a9625b-373a-47de-a6ff-ff1f5869717e" alt="Kevyn Octavian Putra Krisworo" width="100" height="100" style="border-radius: 50%;">
+      <p>Kevyn Octavian Putra Krisworo</p>
+    </td>
+  </tr>
+</table>
