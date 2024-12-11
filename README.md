@@ -12,46 +12,49 @@ By addressing the lack of access to healthcare services, particularly for the lo
 
 To try this app on your own please go to the respective repository, you could click the repo and it will show you the readme.md there
 
-## Meet The Team
-### Machine Learning
+### Meet the Team
+
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/3ea9290e-eb46-4d7a-8e54-9bb291ada4be" alt="Alvin Mubarok" width="100" height="100" style="border-radius: 50%;">
-      <p>Alvin Mubarok</p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/8921ed82-1fd6-4555-b08b-efb0adcd9a51" alt="Muhamad Bagaskara" width="100" height="100" style="border-radius: 50%;">
-      <p>Muhamad Bagaskara</p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/8921ed82-1fd6-4555-b08b-efb0adcd9a51" alt="Kemal Mohamad Husni Tahir" width="100" height="100" style="border-radius: 50%;">
-      <p>Kemal Mohamad Husni Tahir</p>
-    </td>
+    <th>Member's Name</th>
+    <th>Student ID</th>
+    <th>Path</th>
+    <th>Contacts</th>
   </tr>
-</table>
-
-### Cloud Computing
-<table>
   <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/7888a446-214a-42c6-82c7-6fb1288343bc" alt="Tb. Muhammad Farhan Adnan" width="100" height="100" style="border-radius: 50%;">
-      <p>Tb. Muhammad Farhan Adnan</p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/506b629c-20a3-4db9-9a05-4b4bb6ef423e" alt="Ryan Rafael Nainggolan" width="100" height="100" style="border-radius: 50%;">
-      <p>Ryan Rafael Nainggolan</p>
-    </td>
+    <td>Alvin Mubarok</td>
+    <td>M318B4KY0431</td>
+    <td>Machine Learning</td>
+    <td><a href="https://www.linkedin.com/in/alvin-mubarok-595a95223/" target="_blank">LinkedIn</a></td>
   </tr>
-</table>
-
-
-### Mobile Development
-<table>
   <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/70a9625b-373a-47de-a6ff-ff1f5869717e" alt="Kevyn Octavian Putra Krisworo" width="100" height="100" style="border-radius: 50%;">
-      <p>Kevyn Octavian Putra Krisworo</p>
-    </td>
+    <td>Muhamad Bagaskara</td>
+    <td>M318B4KY2624</td>
+    <td>Machine Learning</td>
+    <td><a href="https://www.linkedin.com/in/muhamad-bagaskara/" target="_blank">LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td>Kemal Mohamad Husni Tahir</td>
+    <td>M318B4KY2163</td>
+    <td>Machine Learning</td>
+    <td><a href="https://www.linkedin.com/in/kemalhusni/" target="_blank">LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td>Tb. Muhammad Farhan Adnan</td>
+    <td>C318B4KY4303</td>
+    <td>Cloud Computing</td>
+    <td><a href="https://www.linkedin.com/in/toebagusfarhan/" target="_blank">LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td>Ryan Rafael Nainggolan</td>
+    <td>C318B4KY3987</td>
+    <td>Cloud Computing</td>
+    <td><a href="https://www.linkedin.com/in/ryanrdf/" target="_blank">LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td>Kevyn Octavian Putra Krisworo</td>
+    <td>A318B4KY2191</td>
+    <td>Mobile Development</td>
+    <td><a href="https://www.linkedin.com/in/kevynoctavian/" target="_blank">LinkedIn</a></td>
   </tr>
 </table>
