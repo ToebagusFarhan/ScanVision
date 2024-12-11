@@ -45,6 +45,7 @@ To try this app on your own please go to the respective repository, you could cl
     </td>
   </tr>
 </table>
+
 ### Mobile Development
 <table>
   <tr>
