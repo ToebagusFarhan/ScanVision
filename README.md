@@ -15,17 +15,18 @@ To try this app on your own please go to the respective repository, you could cl
 ## Meet The Team
 
 ### Cloud Computing
-
-<div style="display: flex; justify-content: center; gap: 40px;">
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/7888a446-214a-42c6-82c7-6fb1288343bc" alt="Tb. Muhammad Farhan Adnan" width="100" height="100" style="border-radius: 50%; object-fit: cover;">
-    <p>Tb. Muhammad Farhan Adnan</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/f481a4ff-5f8f-4ef3-99d1-b6df3789c185" alt="Ryan Rafael Nainggolan" width="100" height="100" style="border-radius: 50%; object-fit: cover;">
-    <p>Ryan Rafael Nainggolan</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7888a446-214a-42c6-82c7-6fb1288343bc" alt="Tb. Muhammad Farhan Adnan" width="100" height="100" style="border-radius: 50%;">
+      <p>Tb. Muhammad Farhan Adnan</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f481a4ff-5f8f-4ef3-99d1-b6df3789c185" alt="Ryan Rafael Nainggolan" width="100" height="100" style="border-radius: 50%;">
+      <p>Ryan Rafael Nainggolan</p>
+    </td>
+  </tr>
+</table>
 
 ### Machine Learning
 
