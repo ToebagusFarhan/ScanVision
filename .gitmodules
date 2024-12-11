@@ -1,3 +1,9 @@
 [submodule "user-matane-api"]
 	path = user-matane-api
 	url = https://github.com/ToebagusFarhan/user-matane-api.git
+[submodule "predict-matane-api"]
+	path = predict-matane-api
+	url = https://github.com/ToebagusFarhan/predict-matane-api.git
+[submodule "ML_Matane_C242-PS467"]
+	path = ML_Matane_C242-PS467
+	url = https://github.com/nieehhh/ML_Matane_C242-PS467.git
